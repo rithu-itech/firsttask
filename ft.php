@@ -5,5 +5,10 @@ print(c)
 d=a-b
 print(d)
 
+e=c-d
+print(e)
+
+
 
 print("Done")
+
